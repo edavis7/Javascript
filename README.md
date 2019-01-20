@@ -1,6 +1,6 @@
 # ALIENS-R-REAL
 
-Background
+## Background
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
 
@@ -10,9 +10,9 @@ That's why we are hiring you. We need you to write code that will create a table
 
 You can handle this... right? The planet Earth needs to know what we have found!
 
-Your Task
+## Your Task
 
-Level 1: Automatic Table and Date Search
+### Level 1: Automatic Table and Date Search
 
 
 Create a basic HTML web page or use the index.html file provided (we recommend building your own custom page!).
@@ -26,8 +26,7 @@ Make sure you have a column for date/time, city, state, country, shape, and comm
 Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
 
-
-Level 2: Multiple Search Categories (Optional)
+### Level 2: Multiple Search Categories (Optional)
 
 
 Complete all of Level 1 criteria.
@@ -45,7 +44,7 @@ shape
 
 
 
-Dataset
+## Dataset
 
 
 UFO Sightings Data
